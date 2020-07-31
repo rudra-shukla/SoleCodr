@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi there 👋
+
+### 🔭 I’m currently working on Data Science Projects.
 
 <!--
 **SoleCodr/SoleCodr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
