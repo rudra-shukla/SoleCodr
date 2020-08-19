@@ -2,6 +2,7 @@
 
 ### 🔭 I’m currently working on Data Science Projects.
 ### 🌱 I’m currently learning Data Science.
+
 <!--
 **SoleCodr/SoleCodr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
